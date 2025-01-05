@@ -26,4 +26,8 @@
                     <div class="form-group">
                         <button type="submit" class="btn btn-primary">Update Task</button>
                     </div>
-                @endsection
+                </form>
+            </div>
+        </div>
+    </div>
+@endsection
